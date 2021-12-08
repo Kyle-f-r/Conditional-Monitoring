@@ -1,3 +1,5 @@
 # Ignore all .csv files
 *.csv
-*.xls
+
+# Ignore all .csv files
+*.xlsx
